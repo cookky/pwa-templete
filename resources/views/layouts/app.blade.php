@@ -6,7 +6,7 @@
 
         <title>Laravel - @yield('title')</title>
         <link rel="manifest" href="{{asset('/manifest.webmanifest')}}">
-        <link rel="manifest" href="{{asset('/index.js')}}">
+        <script src="{{asset('/index.js')}}" defer></script>        
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
         @laravelPWA
