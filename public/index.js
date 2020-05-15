@@ -1,4 +1,4 @@
-console.log('test')
+console.log('test2')
 
 const images = ['fox1','fox2','fox3','fox4'];
 const imgElem = document.querySelector('img');
