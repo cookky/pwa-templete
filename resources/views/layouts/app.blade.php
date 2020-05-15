@@ -61,6 +61,11 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            .add-button {
+              position: absolute;
+                top: 1px;
+                left: 1px;
+                }
         </style>
     </head>
     <body>

@@ -22,6 +22,7 @@
 
         <div class="content">
             <div class="title m-b-md">
+            <button class="add-button">Add to home screen</button>
                 Laravel
             </div>
 
