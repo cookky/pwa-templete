@@ -34,7 +34,7 @@
     <meta name="theme-color" content="#da2429">
     <script src='https://www.google.com/recaptcha/api.js' type="74f3c6db61e7884d386871d4-text/javascript"></script>
     <link rel="stylesheet" href="https://slot999.com/assets/css/animate.min.css">
-    <link rel="stylesheet" href="https://slot999.com/assets/css/slot999.css">
+    <link rel="stylesheet" href="{{ asset('css/screen.css') }}">
     <link rel="stylesheet" href="https://slot999.com/assets/css/all.min.css">
     <!-- Styles -->
     <style>
