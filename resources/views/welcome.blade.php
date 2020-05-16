@@ -8,27 +8,53 @@
 <div id="mobile-header">
     <header>
         <div class="container">
-            <a target="_blank" href="https://slot999.com/"><img
-                    src="https://slot999.com//assets/images/logo-slot-circle.png"> <span>SLOT999</span></a>
-            <a target="_blank" href="https://slot999.com/new/"><i class="fas fa-user-circle"></i></a>
+            <a target="_blank" href=""><img
+                    src="{{asset('images/logo-slot-circle.png')}}">
+                <span>SLOT999</span></a>
+            <a target="_blank" href=""><i class="fas fa-user-circle"></i></a>
         </div>
     </header>
     <div class="nav-mobile-expend">
         <div class="container">
             <ul>
-                <li><a target="_blank" href="https://slot999.com/"><i class="fas fa-home"></i> หน้าแรก</a></li>
-                <li><a target="_blank" href="https://slot999.com/new/register"><i class="fas fa-user-plus"></i>
+                <li><a target="_blank" href=""><i class="fas fa-home"></i> หน้าแรก</a></li>
+                <li><a target="_blank" href=""><i class="fas fa-user-plus"></i>
                         สมัครสมาชิก</a></li>
-                <li><a target="_blank" href="https://slot999.com/promotion"><i class="fas fa-star"></i> โปรโมชั่น</a>
-                </li>
-                <li><a target="_blank" href="https://slot999.com/download"><i class="fas fa-download"></i>
+                <li><a target="_blank" href=""><i class="fas fa-star"></i>
+                        โปรโมชั่น</a></li>
+                <li><a target="_blank" href=""><i class="fas fa-download"></i>
                         ดาวน์โหลดเกม</a></li>
-                <li><a target="_blank" href="https://slot999.com/new/"><i class="fas fa-wallet"></i> ฝาก - ถอน</a></li>
-                <li><a target="_blank" href="https://slot999.com/faq/"><i class="fas fa-book"></i> คู่มือการใช้งาน</a>
+                <li><a target="_blank" href=""><i class="fas fa-wallet"></i> ฝาก - ถอน</a>
                 </li>
-                <li><a target="_blank" href="https://slot999.com/blogs"><i class="fas fa-newspaper"></i> บล็อก</a></li>
-                <li><a target="_blank" href="https://slot999.com/contact"><i class="fas fa-envelope"></i> ติดต่อเรา</a>
+                <li><a target="_blank" href=""><i class="fas fa-book"></i>
+                        คู่มือการใช้งาน</a></li>
+                <li><a target="_blank" href=""><i class="fas fa-newspaper"></i> บล็อก</a>
                 </li>
+                <li><a target="_blank" href=""><i class="fas fa-envelope"></i>
+                        ติดต่อเรา</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="nav-mobile">
+    <div class="navigation">
+        <div class="container">
+            <ul>
+                <li><a target="_blank" href=""><i class="fas fa-user"></i>
+                        <p class="font11">บัญชี</p>
+                    </a></li>
+                <li><a target="_blank" href=""><i class="fas fa-wallet"></i>
+                        <p class="font11">เติมเงิน</p>
+                    </a></li>
+                <li><a target="_blank" href=""><i class="fas fa-usd-circle"></i>
+                        <p class="font11">ถอนเงิน</p>
+                    </a></li>
+                <li><a target="_blank" href=""><i class="fas fa-exchange"></i>
+                        <p class="font11">โยกเงิน</p>
+                    </a></li>
+                <li><a target="_blank" href=""><i class="fas fa-star"></i>
+                        <p class="font11">โบนัส</p>
+                    </a></li>
             </ul>
         </div>
     </div>
@@ -43,8 +69,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-brown box-shadow sticky-top">
     <div class="container">
         <div></div>
-        <a class="navbar-brand" target="_blank" href="https://slot999.com/"><img
-                src="https://slot999.com//assets/images/logo-slot.png" class="img-fluid"
+        <a class="navbar-brand" target="_blank" href=""><img
+                src="{{asset('images/logo-slot.png')}}" class="img-fluid"
                 alt="สล็อต สล็อตออนไลน์ คาสิโนออนไลน์กว่า 100 เกม | ฝาก-ถอน 24 ชม."></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,27 +79,27 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item" id="nav-main">
-                    <a class="nav-link" target="_blank" href="https://slot999.com/">หน้าแรก <span
+                    <a class="nav-link" target="_blank" href="">หน้าแรก <span
                             class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" target="_blank" href="https://slot999.com/new/register">สมัครสมาชิก</a>
+                    <a class="nav-link" target="_blank" href="">สมัครสมาชิก</a>
                 </li>
                 <li class="nav-item" id="nav-promotion">
-                    <a class="nav-link" target="_blank" href="https://slot999.com/promotion">โปรโมชั่น</a>
+                    <a class="nav-link" target="_blank" href="">โปรโมชั่น</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" target="_blank" href="https://slot999.com/new/">ฝาก-ถอน</a>
+                    <a class="nav-link" target="_blank" href="">ฝาก-ถอน</a>
                 </li>
                 <li class="nav-item" id="nav-download">
-                    <a class="nav-link" target="_blank" href="https://slot999.com/download">ดาวน์โหลด</a>
+                    <a class="nav-link" target="_blank" href="">ดาวน์โหลด</a>
                 </li>
                 <li class="nav-item" id="nav-contact">
-                    <a class="nav-link" target="_blank" href="https://slot999.com/contact">ติดต่อเรา</a>
+                    <a class="nav-link" target="_blank" href="">ติดต่อเรา</a>
                 </li>
             </ul>
             <div class="form-inline my-2 my-lg-0 text-light">
-                <a target="_blank" href="https://line.me/R/ti/p/@002onxmp" class="text-warning"><span
+                <a target="_blank" href="" class="text-warning"><span
                         style="font-size: 20px;" class="d-flex align-items-center"><i class="fab fa-line fa-2x"
                             style="padding-right:10px;"></i> @SLOT999THAILAND</span></a>
             </div>
@@ -84,19 +110,19 @@
     <div id="Slider" class="carousel slide carousel-fade" data-ride="carousel">
         <div class="carousel-inner text-center">
             <div class="carousel-item active">
-                <img class="animated bounceInUp img-fluid" src="https://slot999.com/assets/images/slider04.webp"
+                <img class="animated bounceInUp img-fluid" src="{{asset('images/slider04.webp')}}"
                     alt="เปิดแล้ว 918Kiss, Pussy888, Joker123">
             </div>
             <div class="carousel-item">
-                <img class="animated bounceInUp img-fluid" src="https://slot999.com/assets/images/slider01.webp"
+                <img class="animated bounceInUp img-fluid" src="{{asset('images/slider01.webp')}}"
                     alt="สมัครสล็อต รับฟรีโบนัส">
             </div>
             <div class="carousel-item">
-                <img class="animated bounceInUp img-fluid" src="https://slot999.com/assets/images/slider02.webp"
+                <img class="animated bounceInUp img-fluid" src="{{asset('images/slider02.webp')}}"
                     alt="เติมเงินโคตรเร็ว 1 วิ">
             </div>
             <div class="carousel-item">
-                <img class="animated bounceInUp img-fluid" src="https://slot999.com/assets/images/slider03.webp"
+                <img class="animated bounceInUp img-fluid" src="{{asset('images/slider03.webp')}}"
                     alt="เว็บเดียวรวมทุกแบรนด์ slotxo, live22">
             </div>
         </div>
@@ -114,10 +140,40 @@
 </section>
 <div class="bg-bottom-slider text-center"></div>
 <div class="login-box">
-    <header class="text-center"><img src="https://slot999.com/assets/images/h-login.png" alt="เข้าสู่ระบบ"></header>
+    <header class="text-center"><img
+            src="{{asset('images/h-login.png')}}"
+            alt="เข้าสู่ระบบ"></header>
     <div class="container">
         <h3 class="text-center" id="alert-text"></h3>
-        <div id="main-panel"></div>
+        <div id="main-panel">            
+            <form>
+                <div class="form-row">
+
+                    <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                        <button type="button" class="btn btn-success btn-lg btn-block"
+                            onclick=""><i
+                                class="fas fa-user-plus"></i> สมัครสมาชิก</button>
+                    </div>
+                    <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                        <button type="button" class="btn btn-warning btn-lg btn-block"
+                            onclick=""><i class="fas fa-sign-in-alt"></i>
+                            เข้าสู่ระบบ</button>
+                    </div>
+                    <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                        <button type="button" class="btn btn-light btn-lg btn-block"
+                            onclick=""><i class="fab fa-line"></i>
+                            ติดต่อเรา</button>
+                    </div>
+                    <!-- <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                        <button type="button" class="btn btn-light btn-lg btn-block"
+                            onclick="go(&#39;https://line.me/R/ti/p/%40iwt2840d&#39;)"><i class="fab fa-line"></i>
+                            ติดต่อเรา</button>
+                    </div> -->
+
+
+                </div>
+            </form>
+        </div>
     </div>
 </div>
 <div id="main-content">
@@ -127,7 +183,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <figure>
-                            <img src="https://slot999.com/assets/images/slot-online.png" class="img-fluid"
+                            <img src="{{asset('images/slot-online.png')}}" class="img-fluid"
                                 alt="สล็อตเงินจริง เล่นแล้วรวย">
                         </figure>
                     </div>
@@ -150,7 +206,7 @@
                             <br />
                             <p class="text-warning" style="font-size:1.2rem;">สล็อต SlotXO Live22
                                 เกมคาสิโนออนไลน์บนมือถือ</p>
-                            <p><a target="_blank" href="https://slot999.com" class="text-warning"
+                            <p><a target="_blank" href="" class="text-warning"
                                     title="สล็อต"><strong>สล็อต</strong></a> เราคือผู้ให้บริการ Application
                                 <strong>เกมคาสิโนออนไลน์</strong>บนมือถืออันดับ 1 รองรับทั้ง IOS และ Android
                                 มีเกมส์ให้เลือกเล่นกว่า 100 เกมส์ ไม่ว่าจะเป็นสล็อต ยิงปลา บาคาร่า เสือมังกร รูเล็ท
@@ -165,25 +221,25 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-6 text-center">
                     <figure>
-                        <img src="https://slot999.com/assets/images/promotion01.jpg" alt="แจกเครดิตฟรี"
+                        <img src="{{asset('images/promotion01.jpg')}}" alt="แจกเครดิตฟรี"
                             class="img-fluid">
                     </figure>
                 </div>
                 <div class="col-md-3 col-sm-6 col-6 text-center">
                     <figure>
-                        <img src="https://slot999.com/assets/images/promotion02.jpg"
+                        <img src="{{asset('images/promotion02.jpg')}}"
                             alt="อยากรวยฟังทางนี้ ชวนเพื่อนรับโบนัส50%" class="img-fluid">
                     </figure>
                 </div>
                 <div class="col-md-3 col-sm-6 col-6 text-center">
                     <figure>
-                        <img src="https://slot999.com/assets/images/promotion03.jpg"
+                        <img src="{{asset('images/promotion03.jpg')}}"
                             alt="รวยได้ในแอพเดียว สมัครวันนี้ รวยทันที" class="img-fluid">
                     </figure>
                 </div>
                 <div class="col-md-3 col-sm-6 col-6 text-center">
                     <figure>
-                        <img src="https://slot999.com/assets/images/promotion04.jpg" alt="รับโบนัสทันที ทุกยอดฝาก"
+                        <img src="{{asset('images/promotion04.jpg')}}" alt="รับโบนัสทันที ทุกยอดฝาก"
                             class="img-fluid">
                     </figure>
                 </div>
@@ -192,7 +248,7 @@
         <section class="why-us">
             <div class="row">
                 <div class="col-md-2">
-                    <img src="https://slot999.com/assets/images/banner300x250_2.webp" class="img-fluid"
+                    <img src="{{asset('images/banner300x250_2.webp')}}" class="img-fluid"
                         alt="slotxo, live22">
                 </div>
                 <div class="col-md-6">
@@ -213,15 +269,7 @@
                         <li>เราให้บริการ<strong>คาสิโนออนไลน์</strong> มาไม่ต่ำกว่า 9 ปี</li>
                         <li>มั่นคง ปลอดภัย 100%</li>
                     </ul>
-                </div>
-                <div class="col-md-4">
-                    <figure style="padding:5px; border-radius:4px; background:#1d1d1d;">
-                        <iframe style="width:100%; height:auto;" src="https://www.youtube.com/embed/_W2xVN_--dE"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </figure>
-                </div>
+                </div>                
             </div>
         </section>
         <section class="news">
@@ -231,60 +279,60 @@
             <article>
                 <ul>
                     <li>
-                        <a href="https://slot999.com/blogs/post/เกม-gold-rally-ผจญภัยไปกับการขุดทอง"><img
-                                src="https://slot999.com/blogs/images/fd3e5978a17f6344c97428d008330080.jpg" width="150"
+                        <a href=""><img
+                                src="{{asset('images/test.png')}}" width="150"
                                 height="150" alt="เกม Gold Rally ผจญภัยไปกับการขุดทอง"></a>
                         <div>
-                            <span>หมวดหมู่<a target="_blank" href="https://slot999.com/blogs/category/สล๊อต"
+                            <span>หมวดหมู่<a target="_blank" href=""
                                     class="text-danger">สล๊อต</a></span>
                             <header>
                                 <h3><a target="_blank"
-                                        href="https://slot999.com/blogs/post/เกม-gold-rally-ผจญภัยไปกับการขุดทอง">เกม
+                                        href="">เกม
                                         Gold Rally ผจญภัยไปกับการขุดทอง</a></h3>
                             </header>
                             <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
                         </div>
                     </li>
                     <li>
-                        <a href="https://slot999.com/blogs/post/เกม-golden-tour-พารวยแจกโชค"><img
-                                src="https://slot999.com/blogs/images/9320b42b505925a3ebd156f7aa40313e.jpg" width="150"
+                        <a href=""><img
+                                src="{{asset('images/test.png')}}" width="150"
                                 height="150" alt="เกม Golden Tour พารวยแจกโชค"></a>
                         <div>
-                            <span>หมวดหมู่<a target="_blank" href="https://slot999.com/blogs/category/สล๊อต"
+                            <span>หมวดหมู่<a target="_blank" href=""
                                     class="text-danger">สล๊อต</a></span>
                             <header>
                                 <h3><a target="_blank"
-                                        href="https://slot999.com/blogs/post/เกม-golden-tour-พารวยแจกโชค">เกม Golden
+                                        href="">เกม Golden
                                         Tour พารวยแจกโชค</a></h3>
                             </header>
                             <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
                         </div>
                     </li>
                     <li>
-                        <a href="https://slot999.com/blogs/post/เกมยิงปลาออนไลน์-มีมากกว่าแค่ความสนุก"><img
-                                src="https://slot999.com/blogs/images/fade38afe6c8f2438779469c5063acd1.jpg" width="150"
+                        <a href=""><img
+                                src="{{asset('images/test.png')}}" width="150"
                                 height="150" alt="เกมยิงปลาออนไลน์ มีมากกว่าแค่ความสนุก"></a>
                         <div>
-                            <span>หมวดหมู่<a target="_blank" href="https://slot999.com/blogs/category/เกมส์ยิงปลา"
+                            <span>หมวดหมู่<a target="_blank" href=""
                                     class="text-danger">เกมส์ยิงปลา</a></span>
                             <header>
                                 <h3><a target="_blank"
-                                        href="https://slot999.com/blogs/post/เกมยิงปลาออนไลน์-มีมากกว่าแค่ความสนุก">เกมยิงปลาออนไลน์
+                                        href="">เกมยิงปลาออนไลน์
                                         มีมากกว่าแค่ความสนุก</a></h3>
                             </header>
                             <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
                         </div>
                     </li>
                     <li>
-                        <a href="https://slot999.com/blogs/post/ทำฝันของคุณให้เป็นจริงได้-ด้วยสล็อตออนไลน์"><img
-                                src="https://slot999.com/blogs/images/355458d8d29c4e841c704a053780f51b.jpg" width="150"
+                        <a href=""><img
+                                src="{{asset('images/test.png')}}" width="150"
                                 height="150" alt="ทำฝันของคุณให้เป็นจริงได้ ด้วยสล็อตออนไลน์"></a>
                         <div>
-                            <span>หมวดหมู่<a target="_blank" href="https://slot999.com/blogs/category/สล๊อต"
+                            <span>หมวดหมู่<a target="_blank" href=""
                                     class="text-danger">สล๊อต</a></span>
                             <header>
                                 <h3><a target="_blank"
-                                        href="https://slot999.com/blogs/post/ทำฝันของคุณให้เป็นจริงได้-ด้วยสล็อตออนไลน์">ทำฝันของคุณให้เป็นจริงได้
+                                        href="">ทำฝันของคุณให้เป็นจริงได้
                                         ด้วยสล็อตออนไลน์</a></h3>
                             </header>
                             <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
@@ -306,25 +354,25 @@
                     เกมให้ได้เลือกเล่นและเพลิดเพลิน ไม่ว่าจะเป็น เกมยิงปลา รูเล็ท แข่งรถ แข่งม้า บาคาร่า คาสิโน และอื่น
                     ๆ อีกมากมายให้ท่านได้เลือกเล่นอย่างสนุกสนาน
                     <img
-                        src="http://ctrack.trafficjunky.net/ctrack?action=list&type=add&id=0&context=httpsslot999.com&cookiename=httpsslot999&maxcookiecount=10" />
+                        src="" />
                 </p>
             </div>
             <div class="col-md-3">
                 <span>เมนู</span>
                 <ul>
-                    <li><a target="_blank" href="https://slot999.com/">หน้าแรก</a></li>
-                    <li><a target="_blank" href="https://slot999.com/faq">วิธีการเล่น</a></li>
-                    <li><a target="_blank" href="https://slot999.com/blogs">บล็อก</a></li>
+                    <li><a target="_blank" href="">หน้าแรก</a></li>
+                    <li><a target="_blank" href="">วิธีการเล่น</a></li>
+                    <li><a target="_blank" href="">บล็อก</a></li>
                 </ul>
             </div>
             <div class="col-md-3">
                 <span>สมาชิก</span>
                 <ul>
-                    <li><a target="_blank" href="https://slot999.com/new/register">สมัครสมาชิก</a></li>
-                    <li><a target="_blank" href="https://slot999.com/new">ฝาก-ถอน</a></li>
-                    <li><a target="_blank" href="https://slot999.com/download">ดาวน์โหลดเกม</a></li>
-                    <li><a target="_blank" href="https://slot999.com/faq">ปัญหาที่พบบ่อย</a></li>
-                    <li><a target="_blank" href="https://slot999.com/new/login">เข้าสู่ระบบ</a></li>
+                    <li><a target="_blank" href="">สมัครสมาชิก</a></li>
+                    <li><a target="_blank" href="">ฝาก-ถอน</a></li>
+                    <li><a target="_blank" href="">ดาวน์โหลดเกม</a></li>
+                    <li><a target="_blank" href="">ปัญหาที่พบบ่อย</a></li>
+                    <li><a target="_blank" href="">เข้าสู่ระบบ</a></li>
                 </ul>
             </div>
             <div class="col-md-3">
@@ -332,8 +380,7 @@
                 <ul>
                     <li>Line ID: @slot999thailand</li>
                     <li>Fanpage: fb.com/slot999online</li>
-                    <li>Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__"
-                            data-cfemail="deb7b0b8b19eadb2b1aae7e7e7f0bdb1b3">[email&#160;protected]</a></li>
+                    <li>Email: <a href="" class="">[email&#160;protected]</a></li>
                     <li>Website: slot999.com</li>
                     <li>© 2017 by SLOT999 GROUP</li>
                 </ul>
