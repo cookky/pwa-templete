@@ -8,8 +8,7 @@
 <div id="mobile-header">
     <header>
         <div class="container">
-            <a target="_blank" href=""><img
-                    src="{{asset('images/logo-slot-circle.png')}}">
+            <a target="_blank" href=""><img src="{{asset('images/logo-slot-circle.png')}}">
                 <span>SLOT999</span></a>
             <a target="_blank" href=""><i class="fas fa-user-circle"></i></a>
         </div>
@@ -17,20 +16,20 @@
     <div class="nav-mobile-expend">
         <div class="container">
             <ul>
-                <li><a target="_blank" href=""><i class="fas fa-home"></i> หน้าแรก</a></li>
-                <li><a target="_blank" href=""><i class="fas fa-user-plus"></i>
+                <li><a target="_blank" href=""><i class="fas fa-home text-danger"></i> หน้าแรก</a></li>
+                <li><a target="_blank" href=""><i class="fas fa-user-plus text-danger"></i>
                         สมัครสมาชิก</a></li>
-                <li><a target="_blank" href=""><i class="fas fa-star"></i>
+                <li><a target="_blank" href=""><i class="fas fa-star text-danger"></i>
                         โปรโมชั่น</a></li>
-                <li><a target="_blank" href=""><i class="fas fa-download"></i>
+                <li><a target="_blank" href=""><i class="fas fa-download text-danger"></i>
                         ดาวน์โหลดเกม</a></li>
-                <li><a target="_blank" href=""><i class="fas fa-wallet"></i> ฝาก - ถอน</a>
+                <li><a target="_blank" href=""><i class="fas fa-wallet text-danger"></i> ฝาก - ถอน</a>
                 </li>
-                <li><a target="_blank" href=""><i class="fas fa-book"></i>
+                <li><a target="_blank" href=""><i class="fas fa-book text-danger"></i>
                         คู่มือการใช้งาน</a></li>
-                <li><a target="_blank" href=""><i class="fas fa-newspaper"></i> บล็อก</a>
+                <li><a target="_blank" href=""><i class="fas fa-newspaper text-danger"></i> บล็อก</a>
                 </li>
-                <li><a target="_blank" href=""><i class="fas fa-envelope"></i>
+                <li><a target="_blank" href=""><i class="fas fa-envelope text-danger"></i>
                         ติดต่อเรา</a></li>
             </ul>
         </div>
@@ -39,38 +38,41 @@
 <div id="nav-mobile">
     <div class="navigation">
         <div class="container">
-            <ul>
-                <li><a target="_blank" href=""><i class="fas fa-user"></i>
-                        <p class="font11">บัญชี</p>
+            <ul >
+                <li><a target="_blank" href=""><i class="fas fa-user text-gray" ></i>
+                        <p class="font11 text-gray" >บัญชี</p>
                     </a></li>
-                <li><a target="_blank" href=""><i class="fas fa-wallet"></i>
-                        <p class="font11">เติมเงิน</p>
+                <li><a target="_blank" href=""><i class="fas fa-wallet text-gray"></i>
+                        <p class="font11 text-gray">เติมเงิน</p>
                     </a></li>
-                <li><a target="_blank" href=""><i class="fas fa-usd-circle"></i>
-                        <p class="font11">ถอนเงิน</p>
+                <li><a target="_blank" href=""><i class="fas fa-usd-circle text-gray"></i>
+                        <p class="font11 text-gray">ถอนเงิน</p>
                     </a></li>
-                <li><a target="_blank" href=""><i class="fas fa-exchange"></i>
-                        <p class="font11">โยกเงิน</p>
+                <li><a target="_blank" href=""><i class="fas fa-exchange text-gray"></i>
+                        <p class="font11 text-gray">โยกเงิน</p>
                     </a></li>
-                <li><a target="_blank" href=""><i class="fas fa-star"></i>
-                        <p class="font11">โบนัส</p>
+                <li><a target="_blank" href=""><i class="fas fa-star text-gray"></i>
+                        <p class="font11 text-gray">โบนัส</p>
                     </a></li>
             </ul>
         </div>
     </div>
 </div>
-<div id="nav-mobile"></div>
-<header id="main-header" class="bg-light" style="font-family:'sukhumvit'">
-    <div class="container d-flex justify-content-between align-items-center">
+<div>
+
+</div>
+<header id="main-header" class="" style="font-family:'sukhumvit';">
+    <img src="{{asset('images/background-h1.jpg')}}" class="img-fluid" alt="">
+
+    <!-- <div class="container d-flex justify-content-between align-items-center">
         <p><strong>SLOT999</strong> สล็อตออนไลน์ เกมคาสิโนออนไลน์กว่า 100 เกม ฝาก-ถอน AUTO 24 ชม.</p>
         <div id="main-nav"></div>
-    </div>
+    </div> -->
 </header>
 <nav class="navbar navbar-expand-lg navbar-dark bg-brown box-shadow sticky-top">
     <div class="container">
         <div></div>
-        <a class="navbar-brand" target="_blank" href=""><img
-                src="{{asset('images/logo-slot.png')}}" class="img-fluid"
+        <a class="navbar-brand" target="_blank" href=""><img src="{{asset('images/logo-slot.png')}}" class="img-fluid"
                 alt="สล็อต สล็อตออนไลน์ คาสิโนออนไลน์กว่า 100 เกม | ฝาก-ถอน 24 ชม."></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -79,8 +81,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item" id="nav-main">
-                    <a class="nav-link" target="_blank" href="">หน้าแรก <span
-                            class="sr-only">(current)</span></a>
+                    <a class="nav-link" target="_blank" href="">หน้าแรก <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" target="_blank" href="">สมัครสมาชิก</a>
@@ -99,9 +100,9 @@
                 </li>
             </ul>
             <div class="form-inline my-2 my-lg-0 text-light">
-                <a target="_blank" href="" class="text-warning"><span
-                        style="font-size: 20px;" class="d-flex align-items-center"><i class="fab fa-line fa-2x"
-                            style="padding-right:10px;"></i> @SLOT999THAILAND</span></a>
+                <a target="_blank" href="" class="text-warning"><span style="font-size: 20px;"
+                        class="d-flex align-items-center"><i class="fab fa-line fa-2x" style="padding-right:10px;"></i>
+                        @SLOT999THAILAND</span></a>
             </div>
         </div>
     </div>
@@ -139,208 +140,412 @@
     </div>
 </section>
 <div class="bg-bottom-slider text-center"></div>
-<div class="login-box">
-    <header class="text-center"><img
-            src="{{asset('images/h-login.png')}}"
-            alt="เข้าสู่ระบบ"></header>
-    <div class="container">
-        <h3 class="text-center" id="alert-text"></h3>
-        <div id="main-panel">            
-            <form>
-                <div class="form-row">
+<div style="">
+    <div class="login-box">
+        <header class="text-center"><img src="{{asset('images/h-login.png')}}" alt="เข้าสู่ระบบ"></header>
+        <div class="container">
+            <h3 class="text-center" id="alert-text"></h3>
+            <div id="main-panel">
+                <form>
+                    <div class="form-row">
 
-                    <div class="form-group col-sm-4 d-flex flex-column align-items-start">
-                        <button type="button" class="btn btn-success btn-lg btn-block"
-                            onclick=""><i
-                                class="fas fa-user-plus"></i> สมัครสมาชิก</button>
-                    </div>
-                    <div class="form-group col-sm-4 d-flex flex-column align-items-start">
-                        <button type="button" class="btn btn-warning btn-lg btn-block"
-                            onclick=""><i class="fas fa-sign-in-alt"></i>
-                            เข้าสู่ระบบ</button>
-                    </div>
-                    <div class="form-group col-sm-4 d-flex flex-column align-items-start">
-                        <button type="button" class="btn btn-light btn-lg btn-block"
-                            onclick=""><i class="fab fa-line"></i>
-                            ติดต่อเรา</button>
-                    </div>
-                    <!-- <div class="form-group col-sm-4 d-flex flex-column align-items-start">
-                        <button type="button" class="btn btn-light btn-lg btn-block"
-                            onclick="go(&#39;https://line.me/R/ti/p/%40iwt2840d&#39;)"><i class="fab fa-line"></i>
-                            ติดต่อเรา</button>
-                    </div> -->
+                        <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                            <button type="button" class="btn btn-success btn-lg btn-block" onclick=""><i
+                                    class="fas fa-user-plus"></i> สมัครสมาชิก</button>
+                        </div>
+                        <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                            <button type="button" class="btn btn-warning btn-lg btn-block" onclick=""><i
+                                    class="fas fa-sign-in-alt"></i>
+                                เข้าสู่ระบบ</button>
+                        </div>
+                        <div class="form-group col-sm-4 d-flex flex-column align-items-start">
+                            <button type="button" class="btn btn-light btn-lg btn-block" onclick=""><i
+                                    class="fab fa-line"></i>
+                                ติดต่อเรา</button>
+                        </div>
 
 
-                </div>
-            </form>
+
+                    </div>
+                </form>
+            </div>
         </div>
     </div>
-</div>
-<div id="main-content">
-    <div class="container">
-        <section class="bg-content-main">
-            <div class="content-main">
+    <div id="main-content">
+        <div class="container" style="background-color:rgba(0, 0, 0, 0.9);">
+            <br>
+            <section class="main-container text-white">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-3 d-none d-sm-block">
                         <figure>
-                            <img src="{{asset('images/slot-online.png')}}" class="img-fluid"
+                            <img src="{{asset('images/slot-online.png')}}" class="img-fluid "
                                 alt="สล็อตเงินจริง เล่นแล้วรวย">
                         </figure>
                     </div>
-                    <div class="col-md-9 content">
+                    <div class="col-md-9">
                         <header style="border-left:5px solid #fff;">
-                            <h1 style="padding-left:10px;">สล็อต เกมออนไลน์ slot บนมือถือ เติม-ถอน
-                                ผ่านระบบอัตโนมัติบริการตลอด 24 ชม. มั่นคงปลอดภัย 100%</h1>
+                            <h1 style="padding-left:10px;">ยินดีต้อนรับเข้าสู่ ACE333 เว็บไซต์ สล็อต a ACE333 หรือ
+                                ACESLOT
+                            </h1>
                         </header>
-                        <article>
-                            <p class="text-warning" style="font-size:1.2rem;">ผู้ให้บริการ สล็อตออนไลน์ เกมออนไลน์
-                                live22 slotxo และคาสิโนออนไลน์บนมือถือ อันดับ 1</p>
-                            <p>
-                                <strong>SLOT</strong> 999
-                                ทำให้การเล่น<strong>เกมออนไลน์</strong>ของท่านง่ายและสะดวกยิ่งขึ้น
-                                ไม่ต้องเสียเวลาเดินทาง
-                                ไม่ต้องเสียเวลารอในการฝากเงินอีกต่อไปด้วยการให้บริการผ่านระบบอัตโนมัติทั้งหมด
-                                ให้ทั้งความมั่นคงปลอดภัย เราเป็นผู้ให้บริการแอพเกมสล็อตชั้นนำ เราคัดสรรเกมที่น่าสนใจ
-                                และพร้อมจะให้ท่านเพลิดเพลินไปกับมัน
-                            </p>
-                            <br />
-                            <p class="text-warning" style="font-size:1.2rem;">สล็อต SlotXO Live22
-                                เกมคาสิโนออนไลน์บนมือถือ</p>
-                            <p><a target="_blank" href="" class="text-warning"
-                                    title="สล็อต"><strong>สล็อต</strong></a> เราคือผู้ให้บริการ Application
-                                <strong>เกมคาสิโนออนไลน์</strong>บนมือถืออันดับ 1 รองรับทั้ง IOS และ Android
-                                มีเกมส์ให้เลือกเล่นกว่า 100 เกมส์ ไม่ว่าจะเป็นสล็อต ยิงปลา บาคาร่า เสือมังกร รูเล็ท
-                                แข่งม้า ไฮโล และ เกมคาสิโนออนไลน์อื่น ๆ อีกมากมาย เติมเงิน - ถอนเงินผ่านระบบอัตโนมัติ
-                                ตลอด 24 ชั่วโมง และมีพนักงานคอยให้คำปรึกษาตลอด</p>
-                        </article>
+                        <p>เราพร้อมให้บริการนักพนันทุกท่านอย่างครบวงจรด้วยคาสิโนออนไลน์ที่เล่นง่าย ได้เงินจริง
+                            พบกับเกมเดิมพันมากมายไม่ว่าจะเป็นเกมยอดนิยมอย่าง บาคาร่า สล็อต แบล็คแจ็ค รูเล็ตต์
+                            และเสือมังกร
+                            รับประสบการณ์การพนันที่สมจริงเสมือนกับไปเล่นที่คาสิโนระดับโลกผ่านระบบออนไลน์
+                            เว็บไซต์ของเราเปิดรับสมาชิกใหม่ตลอด 24 ช.ม. โดยท่านสามารถเข้าร่วมเล่นกับเราได้ง่ายๆ ภายใน 15
+                            นาที พร้อมรับโบนัสเครดิตและโปรโมชั่นส่วนลดมากมายที่หาไม่ได้จากที่อื่น อย่าให้ปัญหาการติดต่อ
+                            หรือฝาก-ถอน มาเป็นอุปสรรคในช่วงเวลาแห่งความสุขของคุณ เล่นคาสิโนที่ joker
+                            เรายึดถือการบริการเป็นอันดับ 1 พร้อมยินดีให้ความช่วยเหลือ ตอบทุกคำถาม เอาใจใส่ลูกค้าทุกคน
+                            ด้วยประสบการณ์ดูแลลูกค้านักพนันกว่าหมื่นคนต่อวัน</p>
                     </div>
                 </div>
-            </div>
-        </section>
-        <section class="promotion">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-6 text-center">
-                    <figure>
-                        <img src="{{asset('images/promotion01.jpg')}}" alt="แจกเครดิตฟรี"
-                            class="img-fluid">
-                    </figure>
+            </section>
+
+            <section class="main-container text-white">
+
+                <header class="">
+                    <h1 class="shine-text">สล็อต ace333 ระบบดีสุด การเงินมั่นคง</h1>
+                </header>
+                <br>
+                <div class="row ">
+                    <div class="col-12 col-sm-6">
+                        <img src="{{'images/1.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <img src="{{'images/2.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <img src="{{'images/3.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <img src="{{'images/4.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-6 text-center">
-                    <figure>
-                        <img src="{{asset('images/promotion02.jpg')}}"
-                            alt="อยากรวยฟังทางนี้ ชวนเพื่อนรับโบนัส50%" class="img-fluid">
-                    </figure>
-                </div>
-                <div class="col-md-3 col-sm-6 col-6 text-center">
-                    <figure>
-                        <img src="{{asset('images/promotion03.jpg')}}"
-                            alt="รวยได้ในแอพเดียว สมัครวันนี้ รวยทันที" class="img-fluid">
-                    </figure>
-                </div>
-                <div class="col-md-3 col-sm-6 col-6 text-center">
-                    <figure>
-                        <img src="{{asset('images/promotion04.jpg')}}" alt="รับโบนัสทันที ทุกยอดฝาก"
-                            class="img-fluid">
-                    </figure>
-                </div>
-            </div>
-        </section>
-        <section class="why-us">
-            <div class="row">
-                <div class="col-md-2">
-                    <img src="{{asset('images/banner300x250_2.webp')}}" class="img-fluid"
-                        alt="slotxo, live22">
-                </div>
-                <div class="col-md-6">
-                    <header style="border-left:5px solid #f3123e">
-                        <h2 style="padding-left:10px;" class="text-danger">ทำไมต้อง SLOT 999</h2>
+            </section>
+            <img src="https://joker123club.com/images/bg/bkg_line.png" class="img-fluid" alt="">
+            <section class="text-center text-white">
+                <br>
+                <div class="main-container">
+                    <header class="">
+                        <h1 class="">ACE333 สล็อตออนไลน์ เล่นฟรีเครดิต </h1>
                     </header>
-                    <strong style="font-size:1.2rem; padding: 0 15px;">บริการเกม <strong>slot</strong> ผ่านระบบอัตโนมัติ
-                        เริ่มต้นเพียง 1 บาท!</strong>
-                    <br>
-                    <br>
-                    <ul>
-                        <li>ระบบอัตโนมัติ รวดเร็วที่สุด ดีที่สุดในตอนนี้</li>
-                        <li>ฝากขั้นต่ำเพียง 1 บาท</li>
-                        <li>เติมเงินได้หลายช่องทาง เช่น ทรูวอเลท ทรูมันนี่ พร้อมเพลย์ และธนาคารชั้นนำ</li>
-                        <li>บริการผ่านระบบอัตโนมัติทั้งหมด</li>
-                        <li>มีพนักงานคอยให้บริการตลอด 24 ชั่วโมง</li>
-                        <li>มีเกมให้เล่นมากกว่า 100 เกม</li>
-                        <li>เราให้บริการ<strong>คาสิโนออนไลน์</strong> มาไม่ต่ำกว่า 9 ปี</li>
-                        <li>มั่นคง ปลอดภัย 100%</li>
-                    </ul>
-                </div>                
-            </div>
-        </section>
-        <section class="news">
-            <header style="border-left:5px solid #078767;">
-                <h2 style="padding-left:10px;" class="text-success">ข่าวสาร และกิจกรรม เครดิตฟรี</h2>
-            </header>
-            <article>
-                <ul>
-                    <li>
-                        <a href=""><img
-                                src="{{asset('images/test.png')}}" width="150"
-                                height="150" alt="เกม Gold Rally ผจญภัยไปกับการขุดทอง"></a>
-                        <div>
-                            <span>หมวดหมู่<a target="_blank" href=""
-                                    class="text-danger">สล๊อต</a></span>
-                            <header>
-                                <h3><a target="_blank"
-                                        href="">เกม
-                                        Gold Rally ผจญภัยไปกับการขุดทอง</a></h3>
-                            </header>
-                            <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
+                    <div class="row">
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category m-0" style="padding: 5px;"
+                            title="Lucky God Progressive" data-game-name="Lucky God Progressive"
+                            data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;Lucky God Progressive&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot"
+                                data-game-code="GodOfFortunePlus" data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/godoffortuneplus.png" alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Lucky God Progressive</div>
                         </div>
-                    </li>
-                    <li>
-                        <a href=""><img
-                                src="{{asset('images/test.png')}}" width="150"
-                                height="150" alt="เกม Golden Tour พารวยแจกโชค"></a>
-                        <div>
-                            <span>หมวดหมู่<a target="_blank" href=""
-                                    class="text-danger">สล๊อต</a></span>
-                            <header>
-                                <h3><a target="_blank"
-                                        href="">เกม Golden
-                                        Tour พารวยแจกโชค</a></h3>
-                            </header>
-                            <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
+
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category m-0 " style="padding: 5px;" title="Robin Hood"
+                            data-game-name="Robin Hood" data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;Robin Hood&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot" data-game-code="RobinHood"
+                                data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/robinhood.png " alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Robin Hood</div>
                         </div>
-                    </li>
-                    <li>
-                        <a href=""><img
-                                src="{{asset('images/test.png')}}" width="150"
-                                height="150" alt="เกมยิงปลาออนไลน์ มีมากกว่าแค่ความสนุก"></a>
-                        <div>
-                            <span>หมวดหมู่<a target="_blank" href=""
-                                    class="text-danger">เกมส์ยิงปลา</a></span>
-                            <header>
-                                <h3><a target="_blank"
-                                        href="">เกมยิงปลาออนไลน์
-                                        มีมากกว่าแค่ความสนุก</a></h3>
-                            </header>
-                            <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category"
+                            style="padding: 5px; margin: 0px;" title="Miami" data-game-name="Miami" data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;Miami&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot" data-game-code="Miami"
+                                data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/miami.png" alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Miami</div>
                         </div>
-                    </li>
-                    <li>
-                        <a href=""><img
-                                src="{{asset('images/test.png')}}" width="150"
-                                height="150" alt="ทำฝันของคุณให้เป็นจริงได้ ด้วยสล็อตออนไลน์"></a>
-                        <div>
-                            <span>หมวดหมู่<a target="_blank" href=""
-                                    class="text-danger">สล๊อต</a></span>
-                            <header>
-                                <h3><a target="_blank"
-                                        href="">ทำฝันของคุณให้เป็นจริงได้
-                                        ด้วยสล็อตออนไลน์</a></h3>
-                            </header>
-                            <small class="text-gray"><i class="fal fa-clock"></i> 1 ปีที่แล้ว</small>
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category"
+                            style="padding: 5px; margin: 0px;" title="SilverBullet Progressive"
+                            data-game-name="SilverBullet Progressive"
+                            data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;SilverBullet Progressive&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot"
+                                data-game-code="SilverBulletPlus" data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/silverbulletplus.png " alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 SilverBullet Progressive</div>
                         </div>
-                    </li>
-                </ul>
-            </article>
-        </section>
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category"
+                            style="padding: 5px; margin: 0px;" title="SilverBullet Progressive"
+                            data-game-name="SilverBullet Progressive"
+                            data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;SilverBullet Progressive&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot"
+                                data-game-code="SilverBulletPlus" data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/panjinlian.png " alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Pan Jin Lian</div>
+                        </div>
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category"
+                            style="padding: 5px; margin: 0px;" title="SilverBullet Progressive"
+                            data-game-name="SilverBullet Progressive"
+                            data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;SilverBullet Progressive&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot"
+                                data-game-code="SilverBulletPlus" data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/football.png " alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Football</div>
+                        </div>
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category"
+                            style="padding: 5px; margin: 0px;" title="SilverBullet Progressive"
+                            data-game-name="SilverBullet Progressive"
+                            data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;SilverBullet Progressive&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot"
+                                data-game-code="SilverBulletPlus" data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/threekingdoms.png " alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Three Kingdoms Quest</div>
+                        </div>
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category"
+                            style="padding: 5px; margin: 0px;" title="SilverBullet Progressive"
+                            data-game-name="SilverBullet Progressive"
+                            data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                                                      ) &amp;&amp; isActiveGames(&quot;SilverBullet Progressive&quot;) == true }">
+                            <div class="icon-container free-game" data-category-key="Slot"
+                                data-game-code="SilverBulletPlus" data-game-width="960" data-game-height="618">
+                                <div class="img-container">
+                                    <div class="img-wrapper">
+                                        <img draggable="false" class="img-fluid"
+                                            src="https://ace333.biz/image/game/panthermoon.png " alt="ace333">
+                                    </div>
+                                </div>
+                                <div class="play-container">
+                                    <a href="">
+                                        <div class="play-btn">
+                                            <span class="img-play-now"></span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="game-flag free-play-flag ">
+                                    <span class="text">เกมฟรี</span>
+                                    <span class="pre-img"></span>
+                                </div>
+                                <div class="game-flag ">
+                                    <span class="pre-img"></span>
+                                </div>
+                            </div>
+                            <div class="game-title">ACE333 Panther Moon</div>
+                        </div>
+                    </div>
+            </section>
+            <img src="https://joker123club.com/images/bg/bkg_line.png" class="img-fluid" alt="">
+            <section>
+                <br>
+                <div class="row">
+                    <div class="col-md-4  text-center">
+                        <div class="text-center">
+                            <div class=" font-subject  ">
+                
+                                <h3>REGISTER</h3>
+                                <h3 class="shine-text mb-1 mt-1">สมัครสมาชิก JOKER123</h3>
+                                <img src="images/addline.png" class="img-fluid text-center" alt="...">
+                            </div>
+                            <div>
+                                <a href="http://nav.cx/feU6Dgw" class="textposite-x" style="padding: 0 !important;"><button class="buttonline" style="
+                          line-height: 1.2em;
+                          padding: 7px 42px;
+                          font-size: 30px; ">กด
+                                        สมัครสมาชิกผ่านทาง LINE</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <br>
+                        <h2 class=" title-border font-subject text-gold">
+                            เล่นเกม สล็อตออนไลน์ กับผู้ให้บริการที่เป็นเว็บตรง JOKER123 มั่นคง
+                            น่าเชื่อถือ 100%
+                        </h2>
+                        <p class="mgT15 indenttext indenttextpc">
+                            สมัครใหม่ ก็ไม่ต้องกังวล! ปลอดภัย 100% กับการเล่น สล็อตออนไลน์กับ JOKER123<i class="shine-text">
+                                "เราคือผู้ให้บริการชั้นนำที่เป็นเว็บตรง 100% มีความมั่นคงสูง ให้คุณไว้ใจได้เต็มที่ จ่ายจริงไม่มี โกง"
+                            </i>สนุกกับ สล็อตออนไลน์ JOKER123 ได้อย่างไร้กังวล
+                            เพราะเรามีทีมงาน Call Center ที่พร้อมดูแลท่านอย่างใกล้ชิดทุกขั้นตอน
+                            ไม่ว่าจะเป็นการสมัครสมาชิก, ฝาก-ถอน ทำธุรกรรมด่วน หรือสอบถามการใช้งานและรับสิทธิ์โปรโมชั่น
+                            ก็สามารถติดต่อได้ตลอด 24 ช.ม จาก JOKER123 โดยตรง
+                        </p>
+                        <h3 class="title-border font-subject text-gold mgT15 tabred">
+                            JOKER123CLUB ให้คุณได้ทดลองเล่นก่อน หากท่านได้ยังไม่เคยเล่น เกม สล็อตออนไลน์ มาก่อน
+                        </h3>
+                        <p class="mgT15 indenttext indenttextpc">
+                            ผู้นำด้านการเดิมพันออนไลน์ เราให้ความสำคัญในเรื่องของความโปร่งใส ไม่หมกเม็ด
+                            โดยยินดีเป็นอย่างยิ่งที่จะให้ลูกค้าทุกท่านได้ทดลองทุกเกมและบริการของเราโดยไม่มีเงื่อนไขและค่าใช้จ่ายแอบแฝง
+                            มีเกมให้ทดลองเล่น ฟรีเครดิต มากมาย</p>
+                            <div class="center mgT15">
+
+                                <a href="Playfree.html" target="_blank" title="ทดลองเล่น JOKER123">
+                                    <img src="images/trytogame.png" alt=" ทดลองเล่น JOKER123" title="ทดลองเล่น JOKER123" class="img-fluid center">
+                                </a>
+                                                                
+                            </div>
+                            
+                    </div>
+                </div>
+                <br>
+            </section>
+            <img src="https://joker123club.com/images/bg/bkg_line.png" class="img-fluid" alt="">
+            <section class="text-center text-white">
+                <br>
+                <div class="main-container">
+                    <h1 class="title">โปรใหม่มาแรง สล็อตออนไลน์ ACE333 </h1>                   
+                    
+                    <div class="row">
+                        <div class="col-12 col-sm-3">
+                            <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
+                        </div>
+                        <div class="col-12 col-sm-3">
+                            <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
+                        </div>
+                        <div class="col-12 col-sm-3">
+                            <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
+                        </div>
+                        <div class="col-12 col-sm-3">
+                            <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
+                        </div>
+                        
+                    </div>
+                </div>
+            </section>
+        </div>
     </div>
 </div>
 <footer id="main-footer">
@@ -353,8 +558,7 @@
                     ด้วยระบบในรูปแบบ Application ที่รองรับทั้งระบบ IOS และ Android ทั้งง่ายและสะดวก มีเกมมากกว่า 100
                     เกมให้ได้เลือกเล่นและเพลิดเพลิน ไม่ว่าจะเป็น เกมยิงปลา รูเล็ท แข่งรถ แข่งม้า บาคาร่า คาสิโน และอื่น
                     ๆ อีกมากมายให้ท่านได้เลือกเล่นอย่างสนุกสนาน
-                    <img
-                        src="" />
+                    <img src="" />
                 </p>
             </div>
             <div class="col-md-3">

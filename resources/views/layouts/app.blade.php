@@ -9,23 +9,32 @@
     <link rel="manifest" href="{{asset('/manifest.webmanifest')}}">
     <script src="{{asset('/index.js')}}" defer></script>
     <!-- Fonts -->
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"> -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     @laravelPWA
 
 
     <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/slot999.css') }}">
     <link rel="stylesheet" href="{{ asset('css/screen.css') }}">
     <link rel="stylesheet" href="{{ asset('css/all.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+    <!-- <link rel="stylesheet" href="{{ asset('css/style.css') }}"> -->
+
     <!-- Styles -->
     <style>
         html,
         body {
-            background-color: #fff;
+            
             color: #636b6f;
             font-family: 'Nunito', sans-serif;
             font-weight: 200;
             height: 100vh;
             margin: 0;
+        }
+
+        p{
+            color:white
         }
 
         .full-height {
@@ -52,9 +61,6 @@
             text-align: center;
         }
 
-        .title {
-            font-size: 84px;
-        }
 
         .links>a {
             color: #636b6f;
@@ -78,7 +84,7 @@
     </style>
 </head>
 
-<body class="bg-main" data-gr-c-s-loaded="true">
+<body class="bg-main"   data-gr-c-s-loaded="true" >
     @yield('content')
 
     <!-- animation banner on mobile    -->
