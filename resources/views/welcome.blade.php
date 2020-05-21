@@ -38,6 +38,9 @@
 <div id="nav-mobile">
     <div class="navigation">
         <div class="container">
+            <div style="height: 20px; background-color: red; width: 100%;">
+                <button class="add-button">Add to home screen</button>
+            </div>
             <ul >
                 <li><a target="_blank" href=""><i class="fas fa-user text-gray" ></i>
                         <p class="font11 text-gray" >บัญชี</p>
