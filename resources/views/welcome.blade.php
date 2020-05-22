@@ -37,10 +37,11 @@
 </div>
 <div id="nav-mobile">
     <div class="navigation">
-        <div class="container">            
-            <ul >
-                <li><a target="_blank" href=""><i class="fas fa-user text-gray" ></i>
-                        <p class="font11 text-gray" >บัญชี</p>
+        <div class="container">
+
+            <ul>
+                <li><a target="_blank" href=""><i class="fas fa-user text-gray"></i>
+                        <p class="font11 text-gray">บัญชี</p>
                     </a></li>
                 <li><a target="_blank" href=""><i class="fas fa-wallet text-gray"></i>
                         <p class="font11 text-gray">เติมเงิน</p>
@@ -72,8 +73,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-brown box-shadow sticky-top">
     <div class="container">
         <div></div>
-        <a class="navbar-brand" target="_blank" href=""><img src="{{asset('images/logo-slot.png')}}" class="img-fluid"
-                alt="สล็อต สล็อตออนไลน์ คาสิโนออนไลน์กว่า 100 เกม | ฝาก-ถอน 24 ชม."></a>
+        <!-- <a class="navbar-brand" target="_blank" href=""><img src="{{asset('images/logo-slot.png')}}" class="img-fluid"
+                alt="สล็อต สล็อตออนไลน์ คาสิโนออนไลน์กว่า 100 เกม | ฝาก-ถอน 24 ชม."></a> -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -260,8 +261,8 @@
                             <div class="game-title">ACE333 Lucky God Progressive</div>
                         </div>
 
-                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category m-0 " style="padding: 5px;" title="Robin Hood"
-                            data-game-name="Robin Hood" data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
+                        <div class="col-6 col-sm-3 game-box animated zoomIn active-category m-0 " style="padding: 5px;"
+                            title="Robin Hood" data-game-name="Robin Hood" data-bind="css: { 'active-category' : (activeCategory() == 'Slot' || (activeCategory() == 'All' &amp;&amp; 'Slot' != 'Fishing')
                                                       ) &amp;&amp; isActiveGames(&quot;Robin Hood&quot;) == true }">
                             <div class="icon-container free-game" data-category-key="Slot" data-game-code="RobinHood"
                                 data-game-width="960" data-game-height="618">
@@ -475,13 +476,14 @@
                     <div class="col-md-4  text-center">
                         <div class="text-center">
                             <div class=" font-subject  ">
-                
+
                                 <h3>REGISTER</h3>
                                 <h3 class="shine-text mb-1 mt-1">สมัครสมาชิก JOKER123</h3>
                                 <img src="images/addline.png" class="img-fluid text-center" alt="...">
                             </div>
                             <div>
-                                <a href="http://nav.cx/feU6Dgw" class="textposite-x" style="padding: 0 !important;"><button class="buttonline" style="
+                                <a href="http://nav.cx/feU6Dgw" class="textposite-x"
+                                    style="padding: 0 !important;"><button class="buttonline" style="
                           line-height: 1.2em;
                           padding: 7px 42px;
                           font-size: 30px; ">กด
@@ -496,8 +498,10 @@
                             น่าเชื่อถือ 100%
                         </h2>
                         <p class="mgT15 indenttext indenttextpc">
-                            สมัครใหม่ ก็ไม่ต้องกังวล! ปลอดภัย 100% กับการเล่น สล็อตออนไลน์กับ JOKER123<i class="shine-text">
-                                "เราคือผู้ให้บริการชั้นนำที่เป็นเว็บตรง 100% มีความมั่นคงสูง ให้คุณไว้ใจได้เต็มที่ จ่ายจริงไม่มี โกง"
+                            สมัครใหม่ ก็ไม่ต้องกังวล! ปลอดภัย 100% กับการเล่น สล็อตออนไลน์กับ JOKER123<i
+                                class="shine-text">
+                                "เราคือผู้ให้บริการชั้นนำที่เป็นเว็บตรง 100% มีความมั่นคงสูง ให้คุณไว้ใจได้เต็มที่
+                                จ่ายจริงไม่มี โกง"
                             </i>สนุกกับ สล็อตออนไลน์ JOKER123 ได้อย่างไร้กังวล
                             เพราะเรามีทีมงาน Call Center ที่พร้อมดูแลท่านอย่างใกล้ชิดทุกขั้นตอน
                             ไม่ว่าจะเป็นการสมัครสมาชิก, ฝาก-ถอน ทำธุรกรรมด่วน หรือสอบถามการใช้งานและรับสิทธิ์โปรโมชั่น
@@ -510,14 +514,15 @@
                             ผู้นำด้านการเดิมพันออนไลน์ เราให้ความสำคัญในเรื่องของความโปร่งใส ไม่หมกเม็ด
                             โดยยินดีเป็นอย่างยิ่งที่จะให้ลูกค้าทุกท่านได้ทดลองทุกเกมและบริการของเราโดยไม่มีเงื่อนไขและค่าใช้จ่ายแอบแฝง
                             มีเกมให้ทดลองเล่น ฟรีเครดิต มากมาย</p>
-                            <div class="center mgT15">
+                        <div class="center mgT15">
 
-                                <a href="Playfree.html" target="_blank" title="ทดลองเล่น JOKER123">
-                                    <img src="images/trytogame.png" alt=" ทดลองเล่น JOKER123" title="ทดลองเล่น JOKER123" class="img-fluid center">
-                                </a>
-                                                                
-                            </div>
-                            
+                            <a href="Playfree.html" target="_blank" title="ทดลองเล่น JOKER123">
+                                <img src="images/trytogame.png" alt=" ทดลองเล่น JOKER123" title="ทดลองเล่น JOKER123"
+                                    class="img-fluid center">
+                            </a>
+
+                        </div>
+
                     </div>
                 </div>
                 <br>
@@ -526,8 +531,8 @@
             <section class="text-center text-white">
                 <br>
                 <div class="main-container">
-                    <h1 class="title">โปรใหม่มาแรง สล็อตออนไลน์ ACE333 </h1>                   
-                    
+                    <h1 class="title">โปรใหม่มาแรง สล็อตออนไลน์ ACE333 </h1>
+
                     <div class="row">
                         <div class="col-12 col-sm-3">
                             <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
@@ -541,8 +546,136 @@
                         <div class="col-12 col-sm-3">
                             <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
                         </div>
-                        
+
                     </div>
+                </div>
+            </section>
+            <img src="https://joker123club.com/images/bg/bkg_line.png" class="img-fluid" alt="">
+            <section class="text-center text-white">
+                <br>
+                <div class="row">
+                    <div class="col-md-3 d-none d-sm-block">
+                        <figure>
+                            <img src="{{asset('images/slot-online.png')}}" class="img-fluid "
+                                alt="สล็อตเงินจริง เล่นแล้วรวย">
+                        </figure>
+                    </div>
+                    <div class="col-md-9">
+                        <header style="border-left:5px solid #fff;">
+                            <h1 style="padding-left:10px; text-align: left;">
+                                Ace333 slot | สล็อตออนไลน์ เกมส์สล็อตออนไลน์ <span class="text-warning">ACE333</span>
+                            </h1>
+                        </header>
+                        <p class="" style="text-align: left; color: #FFFFFF">
+                            <br>
+                            <span class="text-danger">ACE333</span> บริการ สล็อตออนไลน์ ทางเลือก เล่นเกมส์ออนไลน์
+                            ของคนรุ่นใหม่ ที่สามารถวางเดิมพันได้รวดเร็วและเล่นอย่างสนุกสนาน ในการหมุนสัญลักษณ์ สล็อต
+                            ให้ได้ภาพเหมือนเพื่อรับเงินรางวัลสูงสุดจากคาสิโนเกมส์ของผู้ให้บริการ Slot Online ซึ่งบริการ
+                            สล็อตออนไลน์ ชั่นนำที่เราได้ไว้วางใจ ให้คุณได้สัมผัสความแปลกใหม่ของรูปแบบเกมส์สล็อตออนไลน์์
+                            ได้แก่ สล็อตออนไลน์ ACE333 และ JOKER GAMING สามารถสมัครสมาชิก โดยผ่าน LINE ทางโทรศัพท์
+                            พร้อมโบนัสและโปรโมชั่นมากมาย เปิดให้บริการ 24 ชั่วโมง เล่นสล็อตง่ายได้เงินจริง
+                            ไม่มีโกงแน่นอน “ จ่ายจริง จ่ายเร็ว ต้อง ace333.biz เท่านั้น ”
+                            <span class="color2">ACE333</span> รองรับทุกอุปกรณ์ ไม่ว่าจะเป็น Computer
+                            โทรศัพท์มือถือสมาทร์โฟน แท็บเล็ต และอื่นๆ ในรูปแบบที่ใช้งานง่าย และรวดเร็ว โดยทีมงานคุณภาพ
+                            จาก <span class="text-success">ACE333</span> โดยตรง
+                        </p>
+                    </div>
+                </div>
+            </section>
+            <img src="https://joker123club.com/images/bg/bkg_line.png" class="img-fluid" alt="">
+            <section class="text-center text-white">
+                <br>
+                <h1 class="font-subject">ACE 333 เกมส์ สล็อตออนไลน์ ง่ายๆได้จริง แนะนำการเล่น </h1>
+                <p class="" style=" color: #FFFFFF">
+                    ACE333 | สล็อตออนไลน์ เกมส์สล็อตออนไลน์ <span class="text-warning">ACE333</span>
+                    <br>
+                    <span class="text-danger">ACE333</span> บริการ สล็อตออนไลน์ เราเปิดให้บริการ 24 ชั่วโมง
+                    เล่นสล็อตง่ายได้เงินจริง ไม่มีโกงแน่นอน “ จ่ายจริง จ่ายเร็ว ต้อง ace333.biz เท่านั้น
+                    ลองดูวิธีการเล่น แนะนำการเล่นก่อนได้ ”
+                    <span class="color2">ACE333</span> รองรับทุกอุปกรณ์ ไม่ว่าจะเป็น Computer โทรศัพท์มือถือสมาทร์โฟน
+                    แท็บเล็ต และอื่นๆ ในรูปแบบที่ใช้งานง่าย และรวดเร็ว โดยทีมงานคุณภาพ จาก <span
+                        class="text-success">ACE333</span> โดยตรง
+                </p>
+            </section>
+            <section class="text-center text-white">
+                <br>
+                <img src="{{asset('images/ace333_head2.png')}}" class="img-fluid" style="margin-bottom: 20px;"  alt="">
+                <br>
+                <img class="img-fluid" src="https://ace333.biz/image/logo/button_lineaddfriend.png" style="margin-bottom: 20px;" width="150px" alt="">
+                <div class="row text-center" style="padding-bottom: 20px;">
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/1.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/2.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/3.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/4.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/5.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/6.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/7.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/8.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/9.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/10.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/11.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/12.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/13.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/14.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/15.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/16.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/17.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/18.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/19.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/20.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/21.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/22.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/23.png " class="img-fluid" alt="ace333">
+                    </a>
+                    <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
+                        <img src="https://ace333.biz/image/acegame/24.png " class="img-fluid" alt="ace333">
+                    </a>
+                    
                 </div>
             </section>
         </div>
