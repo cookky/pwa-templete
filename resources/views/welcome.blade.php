@@ -118,17 +118,17 @@
                     alt="เปิดแล้ว 918Kiss, Pussy888, Joker123">
             </div> -->
             <div class="carousel-item active">
-                <img class="animated bounceInUp img-fluid" src="{{asset('images/slider01.webp')}}"
+                <img class="animated bounceInUp img-fluid" src="{{asset('images/slider01.png')}}"
                     alt="สมัครสล็อต รับฟรีโบนัส">
             </div>
-            <div class="carousel-item">
+            <!-- <div class="carousel-item">
                 <img class="animated bounceInUp img-fluid" src="{{asset('images/slider02.webp')}}"
                     alt="เติมเงินโคตรเร็ว 1 วิ">
             </div>
             <div class="carousel-item">
                 <img class="animated bounceInUp img-fluid" src="{{asset('images/slider03.webp')}}"
                     alt="เว็บเดียวรวมทุกแบรนด์ slotxo, live22">
-            </div>
+            </div> -->
         </div>
         <div class="container">
             <a class="carousel-control-prev" href="#Slider" role="button" data-slide="prev">
