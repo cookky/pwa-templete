@@ -7,13 +7,15 @@
 @section('content')
 <div id="mobile-header">
     <header>
-        <div class="container">
-            <a target="_blank" href=""><img src="{{asset('images/logo-slot-circle.png')}}">
+        
+        <div class="container m-0 p-0 " style="width: 100%;">
+            <img src="{{asset('images/header-mobile.jpg')}}" class="img-fluid m-0 p-0" style="width: 100%;" alt="">    
+            <!-- <a target="_blank" href=""><img src="{{asset('images/logo-slot-circle.png')}}">
                 <span>SLOT999</span></a>
-            <a target="_blank" href=""><i class="fas fa-user-circle"></i></a>
+            <a target="_blank" href=""><i class="fas fa-user-circle"></i></a> -->
         </div>
     </header>
-    <div class="nav-mobile-expend">
+    <div class="nav-mobile-expend" >
         <div class="container">
             <ul>
                 <li><a target="_blank" href=""><i class="fas fa-home text-danger"></i> หน้าแรก</a></li>
@@ -111,11 +113,11 @@
 <section class="slider">
     <div id="Slider" class="carousel slide carousel-fade" data-ride="carousel">
         <div class="carousel-inner text-center">
-            <div class="carousel-item active">
+            <!-- <div class="carousel-item ">
                 <img class="animated bounceInUp img-fluid" src="{{asset('images/slider04.webp')}}"
                     alt="เปิดแล้ว 918Kiss, Pussy888, Joker123">
-            </div>
-            <div class="carousel-item">
+            </div> -->
+            <div class="carousel-item active">
                 <img class="animated bounceInUp img-fluid" src="{{asset('images/slider01.webp')}}"
                     alt="สมัครสล็อต รับฟรีโบนัส">
             </div>
