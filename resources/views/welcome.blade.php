@@ -5,7 +5,11 @@
 
 
 @section('content')
+<div class="d-none d-sm-block" style="position: fixed; z-index: 99; bottom: 20px; right: 10px;">
+    <img src="images/addline.png" class="img-fluid " style="" alt="...">
+</div>
 <div id="mobile-header">
+    
     <header>
         
         <div class="container m-0 p-0 " style="width: 100%;">
@@ -177,7 +181,26 @@
     <div id="main-content">
         <div class="container" style="background-color:rgba(0, 0, 0, 0.9);">
             <br>
+            <section class="main-container">
+                <header>
+                    <h1 class="">สมัครง่าย แค่ <span class="shine-text">3</span> ขั้นตอน
+                    </h1>
+                </header>
+                <div class="row ">
+                    <div class="col-12 col-sm-4">
+                        <img src="{{'images/step1.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
+                    <div class="col-12 col-sm-4">
+                        <img src="{{'images/step2.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
+                    <div class="col-12 col-sm-4">
+                        <img src="{{'images/step3.jpg'}}" class="img-fluid" alt="" srcset="">
+                    </div>
+                </div>
+            </section>
+            <img src="https://joker123club.com/images/bg/bkg_line.png" class="img-fluid" alt="">
             <section class="main-container text-white">
+                <br>
                 <div class="row">
                     <div class="col-md-3 d-none d-sm-block">
                         <figure>
