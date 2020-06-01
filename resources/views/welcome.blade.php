@@ -122,7 +122,7 @@
                     alt="เปิดแล้ว 918Kiss, Pussy888, Joker123">
             </div> -->
             <div class="carousel-item active" style="margin:0px ; padding:0px">
-                <img class="img-fluid" src="{{asset('images/bg-slider02s.jpg')}}"
+                <img class="img-fluid" src="{{asset('images/bg-slider02.jpg')}}"
                     alt="สมัครสล็อต รับฟรีโบนัส">
             </div>
             <!-- <div class="carousel-item">
