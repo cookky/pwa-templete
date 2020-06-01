@@ -15,7 +15,7 @@
 
 
     <!-- <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}"> -->
-    <link rel="stylesheet" href="{{ asset('css/slot999.css') }}">
+    <!-- <link rel="stylesheet" href="{{ asset('css/slot999.css') }}"> -->
     <link rel="stylesheet" href="{{ asset('css/screen.css') }}">
     <!-- <link rel="stylesheet" href="{{ asset('css/all.css') }}"> -->
     <!-- <link rel="stylesheet" href="{{ asset('css/main.css') }}"> -->
