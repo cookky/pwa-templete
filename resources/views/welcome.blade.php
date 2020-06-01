@@ -146,7 +146,8 @@
         </div>
     </div>
 </section>
-<div class="bg-bottom-slider text-center"></div>
+<!-- bg-bottom-slider -->
+<div class=" text-center"></div>
 <div style="">
     <div class="login-box">
         <header class="text-center"><img src="{{asset('images/h-login.png')}}" alt="เข้าสู่ระบบ"></header>
@@ -504,7 +505,7 @@
 
                                 <h3>REGISTER</h3>
                                 <h3 class="shine-text mb-1 mt-1">สมัครสมาชิก JOKER123</h3>
-                                <img src="images/addline.png" class="img-fluid text-center" alt="...">
+                                <!-- <img src="images/addline.png" class="img-fluid text-center" alt="..."> -->
                             </div>
                             <div>
                                 <a href="http://nav.cx/feU6Dgw" class="textposite-x"
