@@ -101,7 +101,7 @@ h6,
 }
 
 .slider {
-	background: url(../images/bg-slider02.jpg) center top repeat-x transparent;
+	/* background: url(../images/bg-slider02s.jpg) center top repeat-x transparent; */
 	background-size: contain;
 	height: 795px
 }
