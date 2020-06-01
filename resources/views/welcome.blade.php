@@ -5,9 +5,9 @@
 
 
 @section('content')
-<div class="d-none d-sm-block" style="position: fixed; z-index: 99; bottom: 20px; right: 10px;">
+<!-- <div class="d-none d-sm-block" style="position: fixed; z-index: 99; bottom: 20px; right: 10px;">
     <img src="images/addline.png" class="img-fluid " style="" alt="...">
-</div>
+</div> -->
 <div id="mobile-header">
     
     <header>
@@ -542,8 +542,8 @@
                         <div class="center mgT15">
 
                             <a href="Playfree.html" target="_blank" title="ทดลองเล่น JOKER123">
-                                <img src="images/trytogame.png" alt=" ทดลองเล่น JOKER123" title="ทดลองเล่น JOKER123"
-                                    class="img-fluid center">
+                                <!-- <img src="images/trytogame.png" alt=" ทดลองเล่น JOKER123" title="ทดลองเล่น JOKER123"
+                                    class="img-fluid center"> -->
                             </a>
 
                         </div>
