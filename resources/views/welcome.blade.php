@@ -235,16 +235,16 @@
                 <br>
                 <div class="row ">
                     <div class="col-12 col-sm-6">
-                        <img src="{{'images/1.jpg'}}" class="img-fluid" alt="" srcset="">
+                        <img src="{{'images/1s.jpg'}}" class="img-fluid" alt="" srcset="">
                     </div>
                     <div class="col-12 col-sm-6">
-                        <img src="{{'images/2.jpg'}}" class="img-fluid" alt="" srcset="">
+                        <img src="{{'images/2s.jpg'}}" class="img-fluid" alt="" srcset="">
                     </div>
                     <div class="col-12 col-sm-6">
-                        <img src="{{'images/3.jpg'}}" class="img-fluid" alt="" srcset="">
+                        <img src="{{'images/3s.jpg'}}" class="img-fluid" alt="" srcset="">
                     </div>
                     <div class="col-12 col-sm-6">
-                        <img src="{{'images/4.jpg'}}" class="img-fluid" alt="" srcset="">
+                        <img src="{{'images/4s.jpg'}}" class="img-fluid" alt="" srcset="">
                     </div>
                 </div>
             </section>
