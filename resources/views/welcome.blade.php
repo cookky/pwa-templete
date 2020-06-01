@@ -265,7 +265,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/godoffortuneplus.png" alt="ace333">
+                                            src="{{asset('images/cov_jpg/godoffortuneplus.jpg')}}" alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -294,7 +294,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/robinhood.png " alt="ace333">
+                                            src="{{asset('images/cov_jpg/robinhood.jpg')}}" alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -322,7 +322,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/miami.png" alt="ace333">
+                                            src="{{asset('images/cov_jpg/miami.jpg')}}" alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -352,7 +352,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/silverbulletplus.png " alt="ace333">
+                                            src="{{asset('images/cov_jpg/silverbulletplus.jpg ')}}" alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -382,7 +382,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/panjinlian.png " alt="ace333">
+                                            src="{{asset('images/cov_jpg/panjinlian.jpg')}} " alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -412,7 +412,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/football.png " alt="ace333">
+                                            src="{{asset('images/cov_jpg/football.jpg')}} " alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -442,7 +442,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/threekingdoms.png " alt="ace333">
+                                            src="{{asset('images/cov_jpg/threekingdoms.jpg')}} " alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -472,7 +472,7 @@
                                 <div class="img-container">
                                     <div class="img-wrapper">
                                         <img draggable="false" class="img-fluid"
-                                            src="https://ace333.biz/image/game/panthermoon.png " alt="ace333">
+                                            src="{{asset('images/cov_jpg/panthermoon.jpg')}}" alt="ace333">
                                     </div>
                                 </div>
                                 <div class="play-container">
@@ -562,7 +562,7 @@
                         <div class="col-12 col-sm-3">
                             <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
                         </div>
-                        <div class="col-12 col-sm-3">
+                        <!-- <div class="col-12 col-sm-3">
                             <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
                         </div>
                         <div class="col-12 col-sm-3">
@@ -570,7 +570,7 @@
                         </div>
                         <div class="col-12 col-sm-3">
                             <img src="https://ace333.biz/image/pro/ท้าให้ลอง.jpg " class="img-fluid" alt="">
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
