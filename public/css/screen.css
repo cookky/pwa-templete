@@ -12,6 +12,20 @@
 	font-style: normal
 } */
 
+@font-face {
+	font-family: sukhumvit;
+	src: url(../font/Kanit-Medium.ttf) format("woff2"), url(../font/Kanit-Medium.ttf) format("woff");
+	font-weight: 400;
+	font-style: normal
+}
+
+@font-face {
+	font-family: sukhumvit;
+	src: url(../font/Kanit-Medium.ttf) format("woff2"), url(../font/Kanit-Medium.ttf) format("woff");
+	font-weight: 700;
+	font-style: normal
+}
+
 *{
 	font-family: 'Kanit', sans-serif; 
 	color: #fff;
@@ -42,7 +56,7 @@ h4,
 h5,
 h6,
 .nav-link {
-	font-family: sukhumvit
+	font-family: kanit
 }
 
 .navbar-brand {
@@ -161,7 +175,7 @@ h6,
 .login-box .container button {
 	width: 100%;
 	font-weight: 700;
-	font-family: sukhumvit;
+	font-family: kanit;
 	box-shadow: 0 5px 20px rgba(0, 0, 0, .631372549);
 	-webkit-box-shadow: 0 5px 20px rgba(0, 0, 0, .631372549);
 	-moz-box-shadow: 0 5px 20px rgba(0, 0, 0, .631372549);
@@ -417,7 +431,7 @@ h6,
 }
 
 #mobile-header .nav-mobile-expend .container ul li a {
-	font-family: sukhumvit;
+	font-family: kanit;
 	font-size: 12px;
 	text-decoration: none;
 	color: #8c8c8c
