@@ -629,76 +629,76 @@
                 <img class="img-fluid" src="https://ace333.biz/image/logo/button_lineaddfriend.png" style="margin-bottom: 20px;" width="150px" alt="">
                 <div class="row text-center" style="padding-bottom: 20px;">
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/1.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/1.jpg')}} " class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/2.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/2.jpg')}} " class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/3.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/3.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/4.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/4.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/5.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/5.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/6.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/6.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/7.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/7.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/8.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/8.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/9.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/9.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/10.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/10.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/11.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/11.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/12.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/12.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/13.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/13.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/14.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/14.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/15.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/15.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/16.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/16.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/17.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/17.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/18.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/18.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/19.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/19.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/20.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/20.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/21.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/21.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/22.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/22.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/23.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/23.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     <a class="col-4 col-sm-2 m-0 p-0" href="https://lin.ee/mFG6UjH" target="" alt="ace333">
-                        <img src="https://ace333.biz/image/acegame/24.png " class="img-fluid" alt="ace333">
+                        <img src="{{asset('images/cov_jpg/24.jpg')}}" class="img-fluid" alt="ace333">
                     </a>
                     
                 </div>
