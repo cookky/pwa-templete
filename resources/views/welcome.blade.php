@@ -624,7 +624,7 @@
             </section>
             <section class="text-center text-white">
                 <br>
-                <img src="{{asset('images/ace333_head2.png')}}" class="img-fluid" style="margin-bottom: 20px;"  alt="">
+                <img src="{{asset('images/cov_jpg/ace333_head2.jpg')}}" class="img-fluid" style="margin-bottom: 20px;"  alt="">
                 <br>
                 <img class="img-fluid" src="https://ace333.biz/image/logo/button_lineaddfriend.png" style="margin-bottom: 20px;" width="150px" alt="">
                 <div class="row text-center" style="padding-bottom: 20px;">
