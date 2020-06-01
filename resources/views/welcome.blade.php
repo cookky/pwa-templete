@@ -161,7 +161,7 @@
     </div>
 </section>
 <!--  -->
-<div class="bg-bottom-slider text-center"></div>
+<div class="bg-bottom-slider text-center d-none d-sm-block"></div>
 <div>
     <div class="login-box">
         <header class="text-center"><img src="{{asset('images/h-login.png')}}" alt="เข้าสู่ระบบ" loading="lazy"></header>
