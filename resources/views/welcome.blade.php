@@ -139,6 +139,11 @@
                 <img class="img-fluid" src="{{asset('images/bg-slider02.jpg')}}"
                     alt="สมัครสล็อต รับฟรีโบนัส">
             </div>
+            
+            <div class="carousel-item active d-block d-sm-none" style="margin:0px ; padding:0px">
+                <img class="img-fluid" src="{{asset('images/bg-slider02.jpg')}}"
+                    alt="สมัครสล็อต รับฟรีโบนัส">
+            </div>
             <!-- <div class="carousel-item">
                 <img class="animated bounceInUp img-fluid" src="{{asset('images/slider02.webp')}}"
                     alt="เติมเงินโคตรเร็ว 1 วิ">
